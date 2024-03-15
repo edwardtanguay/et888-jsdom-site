@@ -1,2 +1,4 @@
 - x publish to Vercel
-- .. create Component
+- x create Component
+- x JSON 
+- .. delete skills
