@@ -1,6 +1,7 @@
+import { Header } from "./components/Header";
 import "./style.css";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
-<h1>JS-DOM Site</h1>
+${Header()}
 <p>This is the first JS-DOM site.</p>
 `;

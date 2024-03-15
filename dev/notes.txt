@@ -1,1 +1,2 @@
-- .. publish to Vercel
+- x publish to Vercel
+- .. create Component
